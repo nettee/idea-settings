@@ -27,11 +27,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Ast.java" timestamp="1506615266384">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="18" column="27" />
+      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Ast.java" timestamp="1506651099833">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="32" column="8" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/projects/gradle/java-demo/build.gradle" timestamp="1495680548232">
         <mark key="[" line="9" column="3" />
@@ -42,6 +42,11 @@
       <file name="/fragment.java" timestamp="1506440839300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Main.java" timestamp="1506651096165">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="17" filename="$USER_HOME$/projects/gradle/java-demo/src/main/java/App.java" />
@@ -51,34 +56,34 @@
         <text encoding="base64">ICAgICAgICBBU1RQYXJzZXIgcGFyc2VyID0gQVNUUGFyc2VyLm5ld1BhcnNlcihBU1QuSkxTMyk7CiAgICAgICAgcGFyc2VyLnNldFNvdXJjZShzb3VyY2UudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcGFyc2VyLnNldEtpbmQoQVNUUGFyc2VyLktfU1RBVEVNRU5UUyk7CgogICAgICAgIEFTVE5vZGUgcm9vdCA9IHBhcnNlci5jcmVhdGVBU1QobnVsbCk7CiAgICAgICAgcmV0dXJuIHJvb3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3JhbSA9Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>ASTParser.K_STATEMENTS</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3JhbSA9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBBU1RQYXJzZXIgcGFyc2VyID0gQVNUUGFyc2VyLm5ld1BhcnNlcihBU1QuSkxTMyk7CiAgICAgICAgcGFyc2VyLnNldFNvdXJjZShzb3VyY2UudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcGFyc2VyLnNldEtpbmQoQVNUUGFyc2VyLktfU1RBVEVNRU5UUyk7CgogICAgICAgIEFTVE5vZGUgcm9vdCA9IHBhcnNlci5jcmVhdGVBU1QobnVsbCk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkKCQkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>ASTParser.K_STATEMENTS</text>
