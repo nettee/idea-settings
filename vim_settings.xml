@@ -20,6 +20,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/PrintVisitor.java" timestamp="1506666540463">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/gradle/java-demo/src/main/java/App.java" timestamp="1495680436348">
         <mark key="'" line="3" column="17" />
         <mark key="[" line="0" column="0" />
@@ -62,28 +67,28 @@
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3JhbSA9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3JhbSA9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd2lsbGlhbSBvbiAxNy05LTI5LgogKi8K</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBBU1RQYXJzZXIgcGFyc2VyID0gQVNUUGFyc2VyLm5ld1BhcnNlcihBU1QuSkxTMyk7CiAgICAgICAgcGFyc2VyLnNldFNvdXJjZShzb3VyY2UudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcGFyc2VyLnNldEtpbmQoQVNUUGFyc2VyLktfU1RBVEVNRU5UUyk7CgogICAgICAgIEFTVE5vZGUgcm9vdCA9IHBhcnNlci5jcmVhdGVBU1QobnVsbCk7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>ASTParser.K_STATEMENTS</text>
