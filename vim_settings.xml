@@ -9,6 +9,9 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/java/astcomparator/pom.xml" timestamp="1506985756321">
+        <mark key="[" line="25" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/PrintVisitor.java" timestamp="1506667782238">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -17,8 +20,10 @@
       <file name="/a.dummy" timestamp="1506667822369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Ast.java" timestamp="1506947231473">
-        <mark key="[" line="50" column="5" />
+      <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Ast.java" timestamp="1506985942258">
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="12" />
+        <mark key="." line="92" column="12" />
       </file>
       <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/VectorCountVisitor.java" timestamp="1506947617093">
         <mark key="[" line="21" column="0" />
@@ -69,11 +74,11 @@
       <jump line="3" column="17" filename="$USER_HOME$/projects/gradle/java-demo/src/main/java/App.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIjogIik7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJvcGVydHkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SW50ZWdlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;person&quot;];</text>
+        <text encoding="base64">SW50ZWdlciA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBU1RQYXJzZXIgcGFyc2VyID0gQVNUUGFyc2VyLm5ld1BhcnNlcihBU1QuSkxTMyk7CiAgICAgICAgcGFyc2VyLnNldFNvdXJjZShzb3VyY2UudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcGFyc2VyLnNldEtpbmQoQVNUUGFyc2VyLktfU1RBVEVNRU5UUyk7CgogICAgICAgIEFTVE5vZGUgcm9vdCA9IHBhcnNlci5jcmVhdGVBU1QobnVsbCk7CiAgICAgICAgcmV0dXJuIHJvb3Q7Cg==</text>
