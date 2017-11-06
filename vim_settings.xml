@@ -20,6 +20,12 @@
       <file name="/a.dummy" timestamp="1506667822369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/tex-test/navydroid-intro.tex" timestamp="1509983001250">
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/java/astcomparator/src/main/java/me/nettee/astcomparator/Ast.java" timestamp="1506985942258">
         <mark key="[" line="92" column="12" />
         <mark key="]" line="92" column="12" />
