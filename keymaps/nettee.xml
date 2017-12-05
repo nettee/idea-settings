@@ -15,6 +15,10 @@
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="GotoSuperMethod" />
   <action id="GuiDesigner.Duplicate" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="f5" />
