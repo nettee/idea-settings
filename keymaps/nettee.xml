@@ -1,5 +1,12 @@
 <keymap version="1" name="nettee" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -7,6 +14,9 @@
   <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -15,8 +25,14 @@
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GuiDesigner.Duplicate" />
@@ -32,6 +48,7 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="Vcs.Log.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
