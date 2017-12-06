@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -24,12 +25,13 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -46,7 +48,12 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="Vcs.Log.ShowDiff" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
