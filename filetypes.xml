@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
