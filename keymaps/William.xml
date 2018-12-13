@@ -1,4 +1,7 @@
 <keymap version="1" name="William" parent="Default for XWin">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -12,6 +15,9 @@
   <action id="EditorSelectWord" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="NewElementInMenuGroup">
